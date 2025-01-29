@@ -14,4 +14,4 @@ https://learn.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps
 
 ### Microsoft Edge
 MicrosoftEdgeReleaseHistory-ToJson.ps1 used to convert the following "Microsoft Edge releases" table to JSON: https://learn.microsoft.com/en-us/deployedge/microsoft-edge-release-schedule#microsoft-edge-releases
-<br>
+<br><br>
