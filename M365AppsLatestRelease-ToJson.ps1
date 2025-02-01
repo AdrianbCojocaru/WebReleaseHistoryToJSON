@@ -10,7 +10,7 @@
     Convert the Microsoft 365 Apps latest release HTML table to Json
 
 .Description
-    Convert https://learn.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date#supported-versions (latest release) to Json with the help of the HTMLAgilityPack module
+    Convert https://learn.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date#supported-versions (latest release) to Json with the help of the HTMLAgilityPack module.
     The resulting Json can be uploaded on a blob storage so it can be read from the client.
     The json file is used to determine if O365 is on the latest version.
 
