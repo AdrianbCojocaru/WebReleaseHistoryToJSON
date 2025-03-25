@@ -7,7 +7,7 @@
 .Date 10-Dec-2024
 
 .Synopsis
-    Convert the Microsoft 365 Apps version history HTML table to Json.
+    Convert the Microsoft 365 Apps version history HTML table to Json
 
 .Description
     Convert https://learn.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date#version-history to Json with the help of the HTMLAgilityPack module
