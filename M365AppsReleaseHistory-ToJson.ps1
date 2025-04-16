@@ -10,7 +10,7 @@
     Convert the Microsoft 365 Apps version history HTML table to Json
 
 .Description
-    Convert https://learn.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date#version-history to Json with the help of the HTMLAgilityPack module.
+    Convert https://learn.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date#version-history to Json with the help of the HTMLAgilityPack module
     The json file is used to determine how old is the O365 a system is running.
     Since O365 does not write the App version on the machine that is installed on, this script will also utilize the Version History table to create a JSON for matching versions to builds
     The resulting Json can be uploaded on a blob storage so it can be read from the client.
